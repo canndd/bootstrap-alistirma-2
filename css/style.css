@@ -1,0 +1,14 @@
+body{
+    background-color: #222;
+}
+.image{
+    position: relative;
+}
+.image h1{
+    position: absolute;
+   color: black;
+   margin-top: -270px;
+   margin-left: 36%;
+   font-weight:bold;
+   font-size: 70px;
+}
