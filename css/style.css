@@ -12,3 +12,32 @@ body{
    font-weight:bold;
    font-size: 70px;
 }
+.imagecur{
+    height: 490px;
+    width: 1100px;
+    margin-left: 122px;
+}
+.iconn{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin-top: -6px;
+}
+.sagkenar{
+    font-size: 20px ;
+    
+
+}
+.sagkenaric{
+    margin-left: 35px;
+}
+.sagkenaricp{
+    margin-bottom: 60px;
+}
+.deneme 
+{
+  
+  top: 50px;
+  margin-left: -170px;
+     
+}
